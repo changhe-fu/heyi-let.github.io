@@ -1,33 +1,21 @@
-# one
+# home
 
-what are you want?
+what are you want to do?
 
-one two three four five six seven eight nine ten
+one two three four five six seven eight nine ten ... 
 
-## two 
+## TODO
 
-Find what you want to do
+- one
+- two
+- three
+- four
+- five
+- six
+- seven
+- eight
+- nine
+- ten
 
-### three 
 
-Find what you want to do
-
-#### four
-
-Find what you want to do
-
-##### five
-
-Find what you want to do
-
-###### six
-
-Find what you want to do
-
-####### seven
-
-Find what you want to do
-
-######## eight
-
-Find what you want to do
+[other page](./introduction.md)
