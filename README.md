@@ -18,4 +18,5 @@ one two three four five six seven eight nine ten ...
 - ten
 
 
+[Linux 基础操作](./blogs/Linux基础操作.md)
 [other page](./introduction.md)
