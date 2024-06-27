@@ -10,7 +10,7 @@ Linux，通常被认为是一套操作系统，实际上它**是一系列 Linux 
 
 Linux 最开始是由芬兰赫尔辛基大学学生林纳斯·托瓦兹（Linus Torvalds）于 1991 年开发。
 
-![image.png](./imgs/image1/1595385893966-e81a9cc9-c5de-4b8e-ba47-f510f2f59aad.png)
+![image.png](/blogs/imgs/image1/1595385893966-e81a9cc9-c5de-4b8e-ba47-f510f2f59aad.png)
 
 由于 unix 操作系统的商业版权问题，Linus Torvalds 希望在 intelx86 cpu 上可以运行自由版本的类 UNIX 操作系统，出于个人爱好尝试开发了 Linux 操作系统内核。
 
